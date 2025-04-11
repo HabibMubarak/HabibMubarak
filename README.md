@@ -37,7 +37,7 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=HabibMubarak&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
+![](https://github-readme-stats.vercel.app/api?username=HabibMubarak&theme=dark&hide_border=false&include_all_commits=false&count_private=true)  
 ![](https://nirzak-streak-stats.vercel.app/?user=HabibMubarak&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HabibMubarak&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
