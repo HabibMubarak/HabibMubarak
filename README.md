@@ -41,9 +41,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ![](https://github-readme-stats.vercel.app/api?username=HabibMubarak&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=HabibMubarak&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HabibMubarak&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![](https://nirzak-streak-stats.vercel.app/?user=HabibMubarak&theme=dark&hide_border=false) 
 
 ---
 
